@@ -1,0 +1,9 @@
+{
+    "reactSnippets.settings.prettierEnabled": true,
+    "prettier.configPath": "",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+
+
+}
