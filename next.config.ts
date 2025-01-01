@@ -1,6 +1,8 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  // Ensure there's no `output: 'export'` configuration
+
   typescript: {
     ignoreBuildErrors: true,
   },
